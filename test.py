@@ -1,7 +1,6 @@
-deneme yapıyorum
+print("Evet değişiklik yapılıyor")
 
-1
-2
-3
-4
-5
+i = 0
+while(i != 10):
+    i+=1
+    print("yessir",i)
